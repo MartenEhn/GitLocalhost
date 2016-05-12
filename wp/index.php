@@ -106,7 +106,7 @@
 		</div>
 
 
-		Hej
+		Hej Hej Hej
 
 
 		<div class="sectionMenu" id="section_help_menu" style="display: none;">
