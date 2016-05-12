@@ -1,0 +1,118 @@
+/* Styles for Canvas page template */
+
+/**
+ * Table of Contents
+ *
+ * 1.0 - Main Styles
+ * 2.0 - Business Page
+ 
+ */
+ 
+ /* 1.0 Main Styles */
+
+.panel-grid-cell .so-panel {
+margin-bottom:0 !important;
+}
+
+.site-content {
+    padding: 0 !important;
+	width:100% !important;
+}
+
+.hentry {
+	padding: 0 !important;
+	margin:0 !important;
+}
+
+.tptn_counter {
+display:none;
+}
+
+.site {
+	padding: 0 !important;
+}
+
+.site .widget {
+    padding: 0 !important;
+}
+
+#sow-headline-container h1,
+#sow-headline-container h2,
+#sow-headline-container h3,
+#sow-headline-container h4,
+#sow-headline-container h5,
+#sow-headline-container h6,
+.sow-cta-base h5,
+.sow-cta-base h4 {
+padding-top: 0 !important;
+}
+
+.sow-cta-base {
+border-color:transparent !important;
+background:transparent !important;
+}
+
+.sow-cta-base {
+    padding: 3em 1.5em;
+}
+
+.sow-cta-base .so-widget-sow-button {
+    margin-top: 0.25em !important;
+}
+
+.sow-features-list .sow-features-feature h5 {
+    margin: 0;
+    margin-bottom: 0.42125em;
+}
+
+.mc4wp-form-basic {
+    margin: 0 !important;
+}
+
+ @media screen and (max-width: 955px) {
+
+	#masthead {
+		margin:0 ;
+	}
+	
+	.footer-widgets-wrapper {
+		margin: 0 !important;
+	}
+	
+	.site {
+		padding: 0 !important;
+		margin: 0 !important;
+	}
+	
+	.float-right {
+		margin: 0 !important;
+		box-shadow: none !important;
+	}
+	
+	.site .widget {
+		width: initial !important;
+	}
+	.sow-cta-base .so-widget-sow-button a {
+	    margin-top: 0.75em !important;
+	}
+	.sow-cta-base .so-widget-sow-button {
+	    margin-left:0 !important;
+	}
+
+}
+
+ @media screen and (max-width: 955px) and (min-width: 640px) {
+
+	.sow-cta-base .so-widget-sow-button {
+	    float: left !important;
+	}
+
+}
+
+ @media screen and (max-width: 640px) {
+
+	.sow-cta-base .so-widget-sow-button {
+	    float: none !important;
+	}
+
+}

@@ -1,0 +1,1872 @@
+# Copyright (C) 2015 QerraPress
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Quidus 1.53\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/quidus\n"
+"POT-Creation-Date: 2015-05-06 12:26:59+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:16
+msgid "ERROR 404!"
+msgstr ""
+
+#: 404.php:18
+msgid "This page does not exist. You should go back or try a search."
+msgstr ""
+
+#: archive.php:40 search.php:36 category.php:40
+msgid "Previous page"
+msgstr ""
+
+#: archive.php:41 search.php:37 category.php:41
+msgid "Next page"
+msgstr ""
+
+#: archive.php:42 content-link.php:41 content-page.php:44 content.php:46
+#: image.php:62 index.php:44 search.php:38 content-video.php:43
+#: content-search.php:78 content-quote.php:39 content-image.php:51 content-clean.php:28
+#: content-gallery.php:42 content-audio.php:47 content-search.php:94 inc/customizer-sections.php:142 content-canvas.php:28
+msgid "Page"
+msgstr ""
+
+#: comments.php:22
+msgctxt "comments title"
+msgid "Comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s opinions on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:46
+msgid "Comment posting is disabled at the moment."
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:220
+#: content-canvas.php:16 content-clean.php:16
+msgid "Read more %s"
+msgstr ""
+
+#: content-link.php:37 content-page.php:40 content.php:42 image.php:58
+#: content-image.php:47 content-gallery.php:38 content-audio.php:43
+#: content-video.php:39 content-quote.php:35 content-search.php:74
+#: content-search.php:90 content-canvas.php:24 content-clean.php:24
+msgid "Pages:"
+msgstr ""
+
+#: content-link.php:34 content-page.php:32 content.php:38
+#: content-image.php:43 content-gallery.php:34 content-audio.php:39
+#: content-video.php:35 content-quote.php:32 content-search.php:55
+#: content-search.php:58 content-search.php:61 content-search.php:64
+#: content-search.php:71 content-search.php:87 content-search.php:100
+msgid "Read More"
+msgstr ""
+
+#: content-link.php:22 content-page.php:21 content-search.php:47
+#: content.php:22 image.php:27
+msgid "Edit"
+msgstr ""
+
+#: content-none.php:14
+msgid "No content found"
+msgstr ""
+
+#: content-none.php:19
+msgid ""
+"Start publishing <a href="%1$s">here</a>."
+msgstr ""
+
+#: content-none.php:23
+msgid ""
+"No results found for your query."
+msgstr ""
+
+#: content-none.php:28
+msgid ""
+"We can&rsquo;t find what you are looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: footer.php:56, footer-canvas.php:53
+msgid "Quidus 2015. All rights reserved. Theme by "
+msgstr ""
+
+#: footer.php:57, footer-canvas.php:54
+msgid "http://qerrapress.com"
+msgstr ""
+
+#: footer.php:59, footer-canvas.php:56
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:58, footer-canvas.php:55
+msgid ". Powered by "
+msgstr ""
+
+#: functions.php:311
+msgid "The theme description."
+msgstr ""
+
+#: functions.php:58
+msgid "Vertical Menu"
+msgstr ""
+
+#: functions.php:59
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:103
+msgid "Left Sidebar"
+msgstr ""
+
+#: functions.php:113
+msgid "Content Widget One"
+msgstr ""
+
+#: functions.php:123
+msgid "Content Widget Two"
+msgstr ""
+
+#: functions.php:133
+msgid "Content Widget Three"
+msgstr ""
+
+#: functions.php:143
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:154
+msgid "Footer Widget One"
+msgstr ""
+
+#: functions.php:164
+msgid "Footer Widget Two"
+msgstr ""
+
+#: functions.php:174
+msgid "Footer Widget Three"
+msgstr ""
+
+#: functions.php:184
+msgid "Footer Widget Four"
+msgstr ""
+
+#: functions.php:156, functions.php:166, functions.php:176, functions.php:186
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: functions.php:115, functions.php:125, functions.php:135
+msgid "Add widgets here to appear below content."
+msgstr ""
+
+#: functions.php:105
+msgid "Add widgets here to appear in your left sidebar."
+msgstr ""
+
+#: functions.php:145
+msgid "Add widgets here to appear in your right sidebar."
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported
+#. by Noto Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:211
+msgctxt "Noto Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported
+#. by Noto Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:216
+msgctxt "Noto Serif font: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported
+#. by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:220
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: To add an additional character subset specific to your
+#. language, translate this to 'greek', 'cyrillic', 'devanagari' or
+#. 'vietnamese'. Do not translate into your own language.
+#: functions.php:225
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: functions.php:282
+msgid "expand child menu"
+msgstr ""
+
+#: functions.php:283
+msgid "collapse child menu"
+msgstr ""
+
+#: header.php:55, header-canvas.php:55, header-clean.php:55
+msgid "Skip to content"
+msgstr ""
+
+#: navigation/nav.php:31
+msgid "Menu and widgets"
+msgstr ""
+
+#: navigation/nav.php:79
+msgid "View your shopping cart"
+msgstr ""
+
+#: image.php:22
+msgid "Previous Image"
+msgstr ""
+
+#: image.php:22
+msgid "Next Image"
+msgstr ""
+
+#: image.php:73
+msgctxt "Parent post link"
+msgid ""
+"<span class=\"meta-nav\">Published in</span><span class=\"post-title\">"
+"%title</span>"
+msgstr ""
+
+#: inc/customizer-panels.php:13
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer-panels.php:24
+msgid "Social"
+msgstr ""
+
+#: inc/customizer-panels.php:35
+msgid "Color"
+msgstr ""
+
+#: inc/customizer-panels.php:46
+msgid "Layout"
+msgstr ""
+
+#: inc/meta-layout.php:10
+msgid "Sidebars Layout" 
+msgstr ""
+
+#: inc/meta-layout.php:45
+msgid "Footer Widgets Layout" 
+msgstr ""
+
+#: inc/meta-layout.php:77
+msgid "Content Widgets Layout" 
+msgstr ""
+
+#: inc/meta-layout.php:108
+msgid "Maximum Width" 
+msgstr ""
+
+#: inc/meta-layout.php:115
+msgid "Footer Maximum Width" 
+msgstr ""
+
+#: inc/customizer-sections.php:10, inc/customizer-sections.php:79
+msgid "Global"
+msgstr ""
+
+#: inc/customizer-sections.php:16
+msgid "Header Social Icons"
+msgstr ""
+
+#: inc/customizer-sections.php:22
+msgid "Author Social Icons"
+msgstr ""
+
+#: inc/customizer-sections.php:28
+msgid "Footer Social Icons"
+msgstr ""
+
+#: inc/customizer-sections.php:34
+msgid "Font Family"
+msgstr ""
+
+#: inc/customizer-sections.php:40
+msgid "Font Size"
+msgstr ""
+
+#: inc/customizer-sections.php:41
+msgid "Adjust the ratio of font size. The minimum step is 1."
+msgstr ""
+
+#: inc/customizer-sections.php:47
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer-sections.php:54
+msgid "Start Here" 
+msgstr "" 
+
+#: inc/customizer-sections.php:55
+msgid "You need to activate "Kirki" plugin to enable most of theme options in live customizer." 
+msgstr "" 
+ 
+#: inc/customizer-sections.php:69
+msgid "Got It!" 
+msgstr ""
+
+#: inc/customizer-sections.php:80
+msgid "Choose a layout to use on all pages. Other options will override this one if they are set." 
+msgstr "" 
+
+#: inc/customizer-sections.php:86
+msgid "Home" 
+msgstr ""
+
+#: inc/customizer-sections.php:87
+msgid "Choose a layout to use on home page." 
+msgstr ""
+
+#: inc/customizer-sections.php:93
+msgid "Single Post" 
+msgstr ""
+
+#: inc/customizer-sections.php:94
+msgid "Choose a layout to use on single post." 
+msgstr ""
+
+#: inc/customizer-sections.php:100
+msgid "Archive" 
+msgstr ""
+
+#: inc/customizer-sections.php:101
+msgid "Choose a layout to use on archive page." 
+msgstr ""
+
+#: inc/customizer-sections.php:107
+msgid "Category" 
+msgstr ""
+
+#: inc/customizer-sections.php:108
+msgid "Choose a layout to use on category page." 
+msgstr ""
+
+#: inc/customizer-sections.php:114
+msgid "Search" 
+msgstr ""
+
+#: inc/customizer-sections.php:115
+msgid "Choose a layout to use on search page." 
+msgstr ""
+
+#: inc/customizer-sections.php:121
+msgid "Error 404" 
+msgstr ""
+
+#: inc/customizer-sections.php:122
+msgid "Choose a layout to use on error 404 page." 
+msgstr ""
+
+#: inc/customizer-sections.php:128
+msgid "Shop" 
+msgstr ""
+
+#: inc/customizer-sections.php:129
+msgid "Choose a layout to use on error shop page." 
+msgstr ""
+
+#: inc/customizer-sections.php:135
+msgid "Product" 
+msgstr ""
+
+#: inc/customizer-sections.php:136
+msgid "Choose a layout to use on error product page." 
+msgstr ""
+
+#: inc/customizer-sections.php:143
+msgid "Choose a layout to use on page." 
+msgstr ""
+
+#: inc/customizer-sections.php:149
+msgid "Header" 
+msgstr ""
+
+#: inc/customizer-sections.php:155
+msgid "Content" 
+msgstr ""
+
+#: inc/customizer-sections.php:60
+msgid "Excerpt"
+msgstr ""
+
+#: inc/customizer-sections.php:71 
+msgid "Theme Information" 
+msgstr ""
+
+#: inc/customizer-sections.php:161
+msgid "Front Page" 
+msgstr ""
+
+#: inc/customizer-sections.php:162
+msgid "Choose a layout to use on front page." 
+msgstr ""
+
+#: inc/Color/customizer-color_global.php:14
+#: inc/SO-extensions/Widgets/Quidus-Facts/Quidus_Facts.php:32
+msgid "Background Color"
+msgstr ""
+
+#: inc/Color/customizer-color_global.php:25
+msgid "Main Color"
+msgstr ""
+
+#: inc/Color/customizer-color_global.php:36
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/Color/customizer-color_global.php:47
+msgid "Special Color"
+msgstr ""
+
+#: inc/Typography/customizer-typography_global.php:14
+msgid "Body Font Family"
+msgstr ""
+
+#: inc/Typography/customizer-typography_global.php:15
+msgid "Changes font of all non-header elements."
+msgstr ""
+
+#: inc/Typography/customizer-typography_global.php:41
+msgid "Headers Font Family"
+msgstr ""
+
+#: inc/Typography/customizer-typography_global.php:42
+msgid "Changes font of all the header elements."
+msgstr ""
+
+#: inc/customizer-layout_global.php:54, inc/customizer-layout_global.php:163
+msgid "Content Widgets Layout"
+msgstr ""
+
+#: inc/customizer-layout_global.php:55, inc/customizer-layout_global.php:164
+msgid "Choose a layout for widgets that are below content."
+msgstr ""
+
+#: inc/customizer-layout_global.php:67, inc/customizer-layout_global.php:261
+msgid "Footer Maximum Width"
+msgstr ""
+
+#: inc/customizer-layout_global.php:77, inc/customizer-layout_global.php:178
+msgid "Footer Widgets Layout"
+msgstr ""
+
+#: inc/customizer-layout_global.php:89, inc/customizer-layout_global.php:194
+msgid "Left Sidebar Width (%/100)"
+msgstr ""
+
+#: inc/customizer-layout_global.php:91, inc/customizer-layout_global.php:196
+msgid "Changes width of the left sidebar for screen sizes that are higher than 955px."
+msgstr ""
+
+#: inc/customizer-layout_global.php:102, inc/customizer-layout_global.php:208
+msgid "Content Width (%/100)"
+msgstr ""
+
+#: inc/customizer-layout_global.php:103, inc/customizer-layout_global.php:209
+msgid "Changes width of the content for screen sizes that are higher than 955px."
+msgstr ""
+
+#: inc/customizer-layout_global.php:104, inc/customizer-layout_global.php:210
+#: inc/customizer-layout_global.php:92, inc/customizer-layout_global.php:197
+#: inc/customizer-layout_global.php:116, inc/customizer-layout_global.php:223
+msgid "If maximum width is more than 100% then sidebar and content widths will revert to default."
+msgstr ""
+
+#: inc/customizer-layout_global.php:114, inc/customizer-layout_global.php:221
+msgid "Right Sidebar Width (%/100)"
+msgstr ""
+
+#: inc/customizer-layout_global.php:115, inc/customizer-layout_global.php:222
+msgid "Changes width of the right sidebar for screen sizes that are higher than 955px."
+msgstr ""
+
+#: inc/customizer-layout_global.php:234
+msgid "Site Distance From Left (desktop/%)"
+msgstr ""
+
+#: inc/customizer-layout_global.php:250, inc/customizer-layout_global.php:126
+msgid "Maximum Width"
+msgstr ""
+
+#: inc/customizer-layout_global.php:272
+msgid "Disable Post Format Icons"
+msgstr ""
+
+#: inc/Typography/customizer-typography_widget_title.php:114
+msgid "Widget Title Align Left"
+msgstr ""
+
+#: inc/customizer-layout_global.php:283
+msgid "Switch To Centered Site Layout"
+msgstr ""
+
+#: inc/customizer-layout_global.php:284
+msgid "Distance from right and left sides will be the same."
+msgstr ""
+
+#: inc/Color/customizer-color_a.php:14
+msgid "Enable Custom Link Color"
+msgstr ""
+
+#: inc/Color/customizer-color_a.php:25, inc/Color/customizer-sections_color.php:102
+msgid "Link"
+msgstr ""
+
+#: inc/Color/customizer-color_address.php:14
+msgid "Enable Custom Address Color"
+msgstr ""
+
+#: inc/Color/customizer-color_address.php:25, inc/Color/customizer-sections_color.php:72, inc/Typography/customizer-sections_typography.php:72
+msgid "Address"
+msgstr ""
+
+#: inc/Color/customizer-color_blockquote.php:14
+msgid "Enable Custom Blockquote Color"
+msgstr ""
+
+#: inc/Color/customizer-color_blockquote.php:25, inc/Color/customizer-sections_color.php:84, inc/Typography/customizer-sections_typography.php:90
+msgid "Blockquote"
+msgstr ""
+
+#: inc/Color/customizer-color_content_meta.php:14
+msgid "Enable Custom Content Meta Color"
+msgstr ""
+
+#: inc/Color/customizer-color_content_meta.php.php:25, inc/Color/customizer-sections_color.php:30, inc/Typography/customizer-sections_typography.php:30
+msgid "Content Meta"
+msgstr ""
+
+#: inc/Color/customizer-color_dd.php:14
+msgid "Enable Custom Definition List Data Color"
+msgstr ""
+
+#: inc/Color/customizer-color_dd.php:25, inc/Color/customizer-sections_color.php:60, inc/Typography/customizer-sections_typography.php:60
+msgid "Definition List Data"
+msgstr ""
+
+#: inc/Color/customizer-color_dt.php:14
+msgid "Enable Custom Definition List Title Color"
+msgstr ""
+
+#: inc/Color/customizer-color_dt.php:25, inc/Color/customizer-sections_color.php:66, inc/Typography/customizer-sections_typography.php:66
+msgid "Definition List Title"
+msgstr ""
+
+#: inc/Color/customizer-sections_color.php:6, inc/Typography/customizer-sections_typography.php:6
+msgid "Headers"
+msgstr ""
+
+#: inc/Color/customizer-color_headers.php:14
+msgid "Enable Custom H1 Color"
+msgstr ""
+
+#: inc/Color/customizer-color_headers.php:25
+msgid "H1"
+msgstr ""
+
+#: inc/Color/customizer-color_headers.php:36
+msgid "Enable Custom H2 Color"
+msgstr ""
+
+#: inc/Color/customizer-color_headers.php:47
+msgid "H2"
+msgstr ""
+
+#: inc/Color/customizer-color_headers.php:58
+msgid "Enable Custom H3 Color"
+msgstr ""
+
+#: inc/Color/customizer-color_headers.php:69
+msgid "H3"
+msgstr ""
+
+#: inc/Color/customizer-color_headers.php:80
+msgid "Enable Custom H4 Color"
+msgstr ""
+
+#: inc/Color/customizer-color_headers.php:91
+msgid "H4"
+msgstr ""
+
+#: inc/Color/customizer-color_headers.php:102
+msgid "Enable Custom H5 Color"
+msgstr ""
+
+#: inc/Color/customizer-color_headers.php:113
+msgid "H5"
+msgstr ""
+
+#: inc/Color/customizer-color_headers.php:124
+msgid "Enable Custom H6 Color"
+msgstr ""
+
+#: inc/Color/customizer-color_headers.php:135
+msgid "H6"
+msgstr ""
+
+#: inc/Color/customizer-color_lists.php:14
+msgid "Enable Custom List Color"
+msgstr ""
+
+#: inc/Color/customizer-color_lists.php:25, inc/Color/customizer-sections_color.php:42, inc/Typography/customizer-sections_typography.php:42
+msgid "Unordered & Ordered Lists"
+msgstr ""
+
+#: inc/Color/customizer-color_menu.php:14
+msgid "Enable Custom Menu Color"
+msgstr ""
+
+#: inc/Color/customizer-color_menu.php:25, inc/Color/customizer-sections_color.php:90, inc/Typography/customizer-sections_typography.php:96
+msgid "Menu"
+msgstr ""
+
+#: inc/Color/customizer-color_p.php:14
+msgid "Enable Custom Paragraph Color"
+msgstr ""
+
+#: inc/Color/customizer-color_p.php:25, inc/Color/customizer-sections_color.php:36, inc/Typography/customizer-sections_typography.php:36
+msgid "Paragraph"
+msgstr ""
+
+#: inc/Color/customizer-color_site_description.php:14
+msgid "Enable Custom Site Description Color"
+msgstr ""
+
+#: inc/Color/customizer-color_site_description.php:25, inc/Color/customizer-sections_color.php:24, inc/Typography/customizer-sections_typography.php:24
+msgid "Site Description"
+msgstr ""
+
+#: inc/Color/customizer-color_site_title.php:14
+msgid "Enable Custom Site Title Color"
+msgstr ""
+
+#: inc/Color/customizer-color_site_title.php:25, inc/Color/customizer-sections_color.php:18, inc/Typography/customizer-sections_typography.php:18
+msgid "Site Title"
+msgstr ""
+
+#: inc/Color/customizer-color_span.php:14
+msgid "Enable Custom Span Color"
+msgstr ""
+
+#: inc/Color/customizer-color_span.php:25, inc/Color/customizer-sections_color.php:96, inc/Typography/customizer-sections_typography.php:102
+msgid "Span"
+msgstr ""
+
+#: inc/Color/customizer-color_td.php:14
+msgid "Enable Custom Table Data Color"
+msgstr ""
+
+#: inc/Color/customizer-color_td.php:25, inc/Color/customizer-sections_color.php:54, inc/Typography/customizer-sections_typography.php:54
+msgid "Table Data"
+msgstr ""
+
+#: inc/Color/customizer-color_th.php:14
+msgid "Enable Custom Table Header Color"
+msgstr ""
+
+#: inc/Color/customizer-color_th.php:25, inc/Color/customizer-sections_color.php:48, inc/Typography/customizer-sections_typography.php:48
+msgid "Table Header"
+msgstr ""
+
+#: inc/Color/customizer-color_widget_title.php:14
+msgid "Enable Custom Widget Title Color"
+msgstr ""
+
+#: inc/Color/customizer-color_widget_title.php:25, inc/Color/customizer-sections_color.php:12, inc/Typography/customizer-sections_typography.php:12
+msgid "Widget Title"
+msgstr ""
+
+#: inc/Typography/customizer-typography_content_meta.php:14
+msgid "Enable Custom Content Meta Typography"
+msgstr ""
+
+#: inc/Typography/customizer-typography_content_meta.php:25
+msgid "Content Meta Font Size"
+msgstr ""
+
+#: inc/Typography/customizer-typography_content_meta.php:41, inc/Typography/customizer-typography_address.php:41
+#: inc/Typography/customizer-typography_blockquote.php:41, inc/Typography/customizer-typography_dd.php:41
+#: inc/Typography/customizer-typography_dt.php:41, inc/Typography/customizer-typography_headers.php:41
+#: inc/Typography/customizer-typography_headers.php:147, inc/Typography/customizer-typography_headers.php:253
+#: inc/Typography/customizer-typography_headers.php:359, inc/Typography/customizer-typography_headers.php:465
+#: inc/Typography/customizer-typography_headers.php:571, inc/Typography/customizer-typography_list.php:41
+#: inc/Typography/customizer-typography_menu.php:25, inc/Typography/customizer-typography_p.php:41
+#: inc/Typography/customizer-typography_site_description.php:41, inc/Typography/customizer-typography_site_title.php:41
+#: inc/Typography/customizer-typography_td.php:41, inc/Typography/customizer-typography_widget_title.php:41
+#: inc/Typography/customizer-typography_th.php:41
+msgid "Typography"
+msgstr ""
+
+#: inc/Typography/customizer-typography_address.php:70, inc/Typography/customizer-typography_blockquote.php:70
+#: inc/Typography/customizer-typography_blockquote.php:70, inc/Typography/customizer-typography_dd.php:70
+#: inc/Typography/customizer-typography_dt.php:70, inc/Typography/customizer-typography_headers.php:70
+#: inc/Typography/customizer-typography_headers.php:176, inc/Typography/customizer-typography_headers.php:282
+#: inc/Typography/customizer-typography_headers.php:388, inc/Typography/customizer-typography_headers.php:494
+#: inc/Typography/customizer-typography_headers.php:600
+#: inc/SO-extensions/custom_fields.php:11, inc/SO-extensions/custom_fields.php:172
+#: inc/Typography/customizer-typography_p.php:71, inc/Typography/customizer-typography_span.php:70
+#: inc/Typography/customizer-typography_dt.php:70, inc/Typography/customizer-typography_td.php:71
+#: inc/Typography/customizer-typography_th.php:71, inc/Typography/customizer-typography_widget_title.php:70
+msgid "Padding Top"
+msgstr ""
+
+#: inc/Typography/customizer-typography_address.php:81, inc/Typography/customizer-typography_blockquote.php:81
+#: inc/Typography/customizer-typography_blockquote.php:81, inc/Typography/customizer-typography_dd.php:81
+#: inc/Typography/customizer-typography_dt.php:81, inc/Typography/customizer-typography_headers.php:81
+#: inc/Typography/customizer-typography_headers.php:187, inc/Typography/customizer-typography_headers.php:293
+#: inc/Typography/customizer-typography_headers.php:399, inc/Typography/customizer-typography_headers.php:505
+#: inc/Typography/customizer-typography_headers.php:611
+#: inc/SO-extensions/custom_fields.php:11, inc/SO-extensions/custom_fields.php:172
+#: iinc/Typography/customizer-typography_p.php:82, inc/Typography/customizer-typography_span.php:81
+#: inc/Typography/customizer-typography_dt.php:70, inc/Typography/customizer-typography_td.php:82
+#: inc/Typography/customizer-typography_th.php:82, inc/Typography/customizer-typography_widget_title.php:81
+msgid "Padding Bottom"
+msgstr ""
+
+#: inc/Typography/customizer-typography_blockquote.php:92, inc/Typography/customizer-typography_th.php:104
+#: inc/SO-extensions/custom_fields.php:11, inc/SO-extensions/custom_fields.php:172, inc/Typography/customizer-typography_td.php:104
+msgid "Padding Left"
+msgstr ""
+
+#: inc/Typography/customizer-typography_blockquote.php:103, inc/Typography/customizer-typography_td.php:93
+#: inc/SO-extensions/custom_fields.php:11, inc/SO-extensions/custom_fields.php:172
+#: inc/Typography/customizer-typography_th.php:93
+msgid "Padding Right"
+msgstr ""
+
+#: inc/Typography/customizer-typography_address.php:92, inc/Typography/customizer-typography_blockquote.php:70
+#: inc/Typography/customizer-typography_blockquote.php:114, inc/Typography/customizer-typography_dd.php:92
+#: inc/Typography/customizer-typography_dt.php:92, inc/Typography/customizer-typography_headers.php:92
+#: inc/Typography/customizer-typography_headers.php:198, inc/Typography/customizer-typography_headers.php:304
+#: inc/Typography/customizer-typography_headers.php:410, inc/Typography/customizer-typography_headers.php:516
+#: inc/Typography/customizer-typography_headers.php:622
+#: inc/SO-extensions/custom_fields.php:51, inc/SO-extensions/custom_fields.php:212
+#: inc/Typography/customizer-typography_p.php:93, inc/Typography/customizer-typography_span.php:92
+#: inc/Typography/customizer-typography_dt.php:70, inc/Typography/customizer-typography_headers.php:70, inc/Typography/customizer-typography_widget_title.php:92
+msgid "Margin Top"
+msgstr ""
+
+#: inc/Typography/customizer-typography_address.php:103, inc/Typography/customizer-typography_blockquote.php:70
+#: inc/Typography/customizer-typography_blockquote.php:125, inc/Typography/customizer-typography_dd.php:103
+#: inc/Typography/customizer-typography_dt.php:103, inc/Typography/customizer-typography_headers.php:103
+#: inc/Typography/customizer-typography_headers.php:209, inc/Typography/customizer-typography_headers.php:315
+#: inc/Typography/customizer-typography_headers.php:421, inc/Typography/customizer-typography_headers.php:527
+#: inc/Typography/customizer-typography_headers.php:633
+#: inc/SO-extensions/custom_fields.php:67, inc/SO-extensions/custom_fields.php:228
+#: inc/Typography/customizer-typography_p.php:104, inc/Typography/customizer-typography_span.php:103
+#: inc/Typography/customizer-typography_dt.php:70, inc/Typography/customizer-typography_headers.php:70, inc/Typography/customizer-typography_widget_title.php:103
+msgid "Margin Bottom"
+msgstr ""
+
+#: inc/Typography/customizer-typography_address.php:14
+msgid "Enable Custom Address Typography"
+msgstr ""
+
+#: inc/Typography/customizer-typography_address.php:25
+msgid "Address Font Size"
+msgstr ""
+
+#: inc/Typography/customizer-typography_blockquote.php:14
+msgid "Enable Custom Blockquote Typography"
+msgstr ""
+
+#: inc/Typography/customizer-typography_blockquote.php:25
+msgid "Blockquote Font Size"
+msgstr ""
+
+#: inc/Typography/customizer-typography_dd.php:14
+msgid "Enable Custom Definition List Data Typography"
+msgstr ""
+
+#: inc/Typography/customizer-typography_dd.php:25
+msgid "Definition List Data Font Size"
+msgstr ""
+
+#: inc/Typography/customizer-typography_dt.php:14
+msgid "Enable Custom Definition List Title Typography"
+msgstr ""
+
+#: inc/Typography/customizer-typography_dt.php:25
+msgid "Definition List Title Font Size"
+msgstr ""
+
+#: inc/Typography/customizer-typography_headers.php:14
+msgid "Enable Custom H1 Typography"
+msgstr ""
+
+#: inc/Typography/customizer-typography_headers.php:25
+msgid "H1 Font Size"
+msgstr ""
+
+#: inc/Typography/customizer-typography_headers.php:120
+msgid "Enable Custom H2 Typography"
+msgstr ""
+
+#: inc/Typography/customizer-typography_headers.php:131
+msgid "H2 Font Size"
+msgstr ""
+
+#: inc/Typography/customizer-typography_headers.php:226
+msgid "Enable Custom H3 Typography"
+msgstr ""
+
+#: inc/Typography/customizer-typography_headers.php:237
+msgid "H3 Font Size"
+msgstr ""
+
+#: inc/Typography/customizer-typography_headers.php:332
+msgid "Enable Custom H4 Typography"
+msgstr ""
+
+#: inc/Typography/customizer-typography_headers.php:343
+msgid "H4 Font Size"
+msgstr ""
+
+#: inc/Typography/customizer-typography_headers.php:438
+msgid "Enable Custom H5 Typography"
+msgstr ""
+
+#: inc/Typography/customizer-typography_headers.php:449
+msgid "H5 Font Size"
+msgstr ""
+
+#: inc/Typography/customizer-typography_headers.php:544
+msgid "Enable Custom H6 Typography"
+msgstr ""
+
+#: inc/Typography/customizer-typography_headers.php:555
+msgid "H6 Font Size"
+msgstr ""
+
+#: inc/Typography/customizer-typography_list.php:14
+msgid "Enable Custom Unordered & Ordered Lists Typography"
+msgstr ""
+
+#: inc/Typography/customizer-typography_list.php:25
+msgid "Unordered & Ordered Lists Font Size"
+msgstr ""
+
+#: inc/Typography/customizer-typography_menu.php:14
+msgid "Enable Custom Content Meta Typography"
+msgstr ""
+
+#: inc/Typography/customizer-typography_menu.php:25
+msgid "Content Meta Font Size"
+msgstr ""
+
+#: inc/Typography/customizer-typography_site_description.php:14
+msgid "Enable Custom Site Description Typography"
+msgstr ""
+
+#: inc/Typography/customizer-typography_site_description.php:25
+msgid "Site Description Font Size"
+msgstr ""
+
+#: inc/Typography/customizer-typography_site_title.php:14
+msgid "Enable Custom Site Title Typography"
+msgstr ""
+
+#: inc/Typography/customizer-typography_site_title.php:25
+msgid "Site Title Font Size"
+msgstr ""
+
+#: inc/Typography/customizer-typography_td.php:14
+msgid "Enable Custom Table Data Typography"
+msgstr ""
+
+#: inc/Typography/customizer-typography_td.php:25
+msgid "Table Data Font Size"
+msgstr ""
+
+#: inc/Typography/customizer-typography_th.php:14
+msgid "Enable Custom Table Header Typography"
+msgstr ""
+
+#: inc/Typography/customizer-typography_th.php:25
+msgid "Table Header Font Size"
+msgstr ""
+
+#: inc/Typography/customizer-typography_widget_title.php:14
+msgid "Enable Custom Widget Title Typography"
+msgstr ""
+
+#: inc/Typography/customizer-typography_widget_title.php:25
+msgid "Widget Title Font Size"
+msgstr ""
+
+#: inc/Typography/customizer-typography_menu.php:14
+msgid "Enable Custom Menu Typography"
+msgstr ""
+
+#: inc/Typography/customizer-typography_p.php:14
+msgid "Enable Custom Paragraph Typography"
+msgstr ""
+
+#: inc/Typography/customizer-typography_p.php:25
+msgid "Paragraph Font Size"
+msgstr ""
+
+#: inc/Typography/customizer-typography_span.php:14
+msgid "Enable Custom Span Typography"
+msgstr ""
+
+#: inc/Typography/customizer-typography_span.php:25
+msgid "Span Font Size"
+msgstr ""
+
+
+#: inc/customizer-layout_header.php:14
+msgid "Show Search In Horizontal Menu"
+msgstr ""
+
+#: inc/customizer-layout_header.php:25
+msgid "Show Cart In Horizontal Menu"
+msgstr ""
+
+#: inc/customizer-site_identity.php:14
+msgid "Logo Upload"
+msgstr ""
+
+#: inc/customizer-site_identity.php:15
+msgid "Recommended logo size is 340x136px."
+msgstr ""
+
+#: inc/customizer-site_identity.php:26
+msgid "Favicon Upload"
+msgstr ""
+
+#: inc/customizer-site_identity.php:27
+msgid "Recommended favicon size is 16x16px."
+msgstr ""
+
+#: inc/customizer-layout_content.php:14
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/customizer-layout_content.php:15
+msgid "Adjust length of excerpt."
+msgstr ""
+
+#: inc/customizer-layout_single_post.php:47
+msgid "Hide Entry Meta On Single Posts"
+msgstr ""
+
+#: inc/customizer-layout_home.php:112
+msgid "Hide Featured Image On Home Page"
+msgstr ""
+
+#: inc/customizer-layout_home.php:113
+msgid "Faster home page loading speed improves on-page SEO but may hurt aesthetics."
+msgstr ""
+
+#: inc/customizer-layout_search.php:14
+msgid "Hide Featured Image On Search Page"
+msgstr ""
+
+#: inc/customizer-site_identity.php:38
+msgid "Logo Max Width"
+msgstr ""
+
+#: inc/customizer-site_identity.php:54
+msgid "Logo Max Width (tablet large)"
+msgstr ""
+
+#: inc/customizer-site_identity.php:70
+msgid "Logo Max Width (tablet small)"
+msgstr ""
+
+#: inc/customizer-site_identity.php:86
+msgid "Logo Max Width (mobile)"
+msgstr ""
+
+#: inc/customizer-typography_font_size.php:238
+msgid "Footer Text Font Size"
+msgstr ""
+
+#: inc/customizer-layout_single_post.php:36
+msgid "Post Title & Meta Align Left"
+msgstr ""
+
+#: inc/customizer-layout_single_post.php:25
+msgid "Comments Title Align Left"
+msgstr ""
+
+#: inc/customizer-layout_single_post.php:14
+msgid "Disable Featured Image On Single Post"
+msgstr ""
+
+#: inc/Color/customizer-color_global.php:58
+msgid "Posts & Sidebars Background Color"
+msgstr ""
+
+#: inc/Color/customizer-color_global.php:69
+msgid "Enable Transparent Background On Posts & Sidebars"
+msgstr ""
+
+#: inc/Color/customizer-color_global.php:80
+msgid "Post & Sidebar Border Box Shadow Color"
+msgstr ""
+
+#: inc/customizer-layout_home.php:14
+msgid "Header Image"
+msgstr ""
+
+#: inc/customizer-layout_home.php:25
+msgid "Enable Transparent Menu On Home Page"
+msgstr ""
+
+#: inc/customizer-layout_home.php:36
+msgid "Header Image TranslateY Count"
+msgstr ""
+
+#: inc/customizer-layout_home.php:52
+msgid "Show Text Box In Home Header Image"
+msgstr ""
+
+#: inc/customizer-layout_home.php:63
+msgid "Header Text Box Heading"
+msgstr ""
+
+#: header.php:39, inc/customizer-layout_home.php:64, header-canvas.php:39, header-clean.php:39
+msgid "Frank L. Burton"
+msgstr ""
+
+#: inc/customizer-layout_home.php:74
+msgid "Header Text Box Description"
+msgstr ""
+
+#: header.php:40, inc/customizer-layout_home.php:75, header-canvas.php:40, header-clean.php:40
+msgid "I am a professional web developer from New York."
+msgstr ""
+
+#: inc/customizer-layout_home.php:85
+msgid "Apply Background To Home Header Text Box"
+msgstr ""
+
+#: inc/customizer-layout_home.php:96
+msgid "Text Box Background Opacity"
+msgstr ""
+
+#: inc/SO-extensions/widgets_group.php:23
+msgid "Quidus SiteOrigin Widgets"
+msgstr ""
+
+#: inc/SO-extensions/custom_fields.php:43, inc/SO-extensions/custom_fields.php:204
+msgid "Margin"
+msgstr ""
+
+#: inc/SO-extensions/custom_fields.php:59, inc/SO-extensions/custom_fields.php:220
+msgid "Margin Right"
+msgstr ""
+
+#: inc/SO-extensions/custom_fields.php:75, inc/SO-extensions/custom_fields.php:236
+msgid "Margin Left"
+msgstr ""
+
+#: inc/SO-extensions/custom_fields.php:83, inc/SO-extensions/custom_fields.php:244
+msgid "Translate X"
+msgstr ""
+
+#: inc/SO-extensions/custom_fields.php:91, inc/SO-extensions/custom_fields.php:252
+msgid "Translate Y"
+msgstr ""
+
+#: inc/SO-extensions/custom_fields.php:99, inc/SO-extensions/custom_fields.php:284
+msgid "Top"
+msgstr ""
+
+#: inc/SO-extensions/custom_fields.php:107, inc/SO-extensions/custom_fields.php:276
+msgid "Right"
+msgstr ""
+
+#: inc/SO-extensions/custom_fields.php:115, inc/SO-extensions/custom_fields.php:268
+msgid "Bottom"
+msgstr ""
+
+#: inc/SO-extensions/custom_fields.php:123, inc/SO-extensions/custom_fields.php:260
+msgid "Left"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-CTA/Quidus_CTA.php:14
+msgid "Quidus Call-To-Action"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-CTA/Quidus_CTA.php:19
+msgid "Increase sales or subscriptions with stylish CTA section."
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-CTA/Quidus_CTA.php:31
+msgid "CTA Header"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-CTA/Quidus_CTA.php:36
+msgid "Header Color"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-CTA/Quidus_CTA.php:41
+msgid "CTA Description"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-CTA/Quidus_CTA.php:62
+msgid "Description Color"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-CTA/Quidus_CTA.php:72, inc/SO-extensions/Widgets/Quidus-CTA/Quidus_CTA.php:98
+msgid "Button Background Color"
+msgstr ""
+
+#: inc/SO-extensions/custom_fields.php:131, inc/SO-extensions/custom_fields.php:292
+#: inc/SO-extensions/Widgets/Quidus_Icon_Simple/quidus_icon.php:56
+#: inc/SO-extensions/Widgets/Quidus-Services/Quidus_Services.php:42
+msgid "Width"
+msgstr ""
+
+#: inc/SO-extensions/custom_fields.php:138, inc/SO-extensions/custom_fields.php:299
+#: inc/SO-extensions/Widgets/Quidus_Icon_Simple/quidus_icon.php:61
+#: inc/SO-extensions/Widgets/Quidus-Services/Quidus_Services.php:47
+msgid "Height"
+msgstr ""
+
+#: inc/SO-extensions/custom_fields.php:145, inc/SO-extensions/custom_fields.php:306
+msgid "Position"
+msgstr ""
+
+#: inc/SO-extensions/custom_fields.php:152, inc/SO-extensions/custom_fields.php:313
+msgid "Maximum Width"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Pricing-Table/Quidus_Pricing_Table.php:72
+msgid "Pricing Tables"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Pricing-Table/Quidus_Pricing_Table.php:73
+msgid "Pricing Table"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Pricing-Table/Quidus_Pricing_Table.php:14
+msgid "Quidus Pricing Tables"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Pricing-Table/Quidus_Pricing_Table.php:19
+msgid "Stylish Pricing Tables."
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Pricing-Table/Quidus_Pricing_Table.php:78
+msgid "Special Offer"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Pricing-Table/Quidus_Pricing_Table.php:32
+msgid "Special Pricing Table Header Background Color"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Pricing-Table/Quidus_Pricing_Table.php:37
+msgid "Pricing Table Background Color"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Pricing-Table/Quidus_Pricing_Table.php:83
+msgid "Plan Title"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Pricing-Table/Quidus_Pricing_Table.php:88
+msgid "Plan Subtitle"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Pricing-Table/Quidus_Pricing_Table.php:47
+msgid "Subtitle Color"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Pricing-Table/Quidus_Pricing_Table.php:93
+msgid "Pricing"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Pricing-Table/Quidus_Pricing_Table.php:52
+msgid "Pricing Color"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Pricing-Table/Quidus_Pricing_Table.php:98
+msgid "Pricing Subtitle"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Pricing-Table/Quidus_Pricing_Table.php:57
+msgid "Pricing Subtitle Color"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Pricing-Table/Quidus_Pricing_Table.php:103
+msgid "Plan Features"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Pricing-Table/Quidus_Pricing_Table.php:104
+#: inc/SO-extensions/Widgets/Quidus-Pricing-Table/Quidus_Pricing_Table.php:109
+msgid "Feature"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Pricing-Table/Quidus_Pricing_Table.php:62
+msgid "Plan Feature Color"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Pricing-Table/Quidus_Pricing_Table.php:117
+#: inc/SO-extensions/Widgets/Quidus-CTA/Quidus_CTA.php:51, inc/SO-extensions/Widgets/Quidus-CTA/Quidus_CTA.php:77
+msgid "Button Text"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Pricing-Table/Quidus_Pricing_Table.php:122
+#: inc/SO-extensions/Widgets/Quidus-CTA/Quidus_CTA.php:56, inc/SO-extensions/Widgets/Quidus-CTA/Quidus_CTA.php:82
+msgid "Button Url"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Pricing-Table/Quidus_Pricing_Table.php:67
+#: inc/SO-extensions/Widgets/Quidus-CTA/Quidus_CTA.php:67, inc/SO-extensions/Widgets/Quidus-CTA/Quidus_CTA.php:93
+msgid "Button Color"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Featured-Posts/Quidus_Featured_Posts.php:14
+msgid "Quidus Featured Post"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Featured-Posts/Quidus_Featured_Posts.php:19
+msgid "Displays one or multiple featured posts."
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Featured-Posts/Quidus_Featured_Posts.php:37
+#: inc/SO-extensions/Widgets/Quidus-Recent-Posts/Quidus_Recent_Posts.php:61
+msgid "Show Date"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Featured-Posts/Quidus_Featured_Posts.php:43
+#: inc/SO-extensions/Widgets/Quidus-Recent-Posts/Quidus_Recent_Posts.php:67
+msgid "Show Author"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Featured-Posts/Quidus_Featured_Posts.php:49
+#: inc/SO-extensions/Widgets/Quidus-Recent-Posts/Quidus_Recent_Posts.php:73
+msgid "Show Categories"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Recent-Posts/Quidus_Recent_Posts.php:14
+msgid "Quidus SiteOrigin Recent Posts"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Recent-Posts/Quidus_Recent_Posts.php:19
+msgid "Displays your recent posts."
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Recent-Posts/Quidus_Recent_Posts.php:79
+msgid "Item Height (window height - %)"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Recent-Posts/Quidus_Recent_Posts.php:32
+#: inc/SO-extensions/Widgets/Quidus-Featured-Posts/Quidus_Featured_Posts.php:32
+msgid "Posts Query"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Recent-Posts/Quidus_Recent_Posts.php:37
+#: inc/SO-extensions/Widgets/Quidus_Team/Quidus_Team.php:90
+#: inc/SO-extensions/Widgets/Quidus-Facts/Quidus_Facts.php:64
+#: inc/SO-extensions/Widgets/Quidus-Testimonials/Quidus_Testimonials.php:96
+#: inc/SO-extensions/Widgets/Quidus-Services/Quidus_Services.php:95
+#: inc/SO-extensions/Widgets/Quidus_Skills/quidus_skills.php:89
+#: inc/SO-extensions/Widgets/Quidus-Pricing-Table/Quidus_Pricing_Table.php:136
+msgid "Number Of Columns On Desktop"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Recent-Posts/Quidus_Recent_Posts.php:45
+#: inc/SO-extensions/Widgets/Quidus_Team/Quidus_Team.php:98
+#: inc/SO-extensions/Widgets/Quidus-Facts/Quidus_Facts.php:72
+#: inc/SO-extensions/Widgets/Quidus-Testimonials/Quidus_Testimonials.php:104
+#: inc/SO-extensions/Widgets/Quidus-Services/Quidus_Services.php:103
+#: inc/SO-extensions/Widgets/Quidus_Skills/quidus_skills.php:97
+#: inc/SO-extensions/Widgets/Quidus-Pricing-Table/Quidus_Pricing_Table.php:144
+msgid "Number Of Columns On Large Tablet"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Recent-Posts/Quidus_Recent_Posts.php:53
+#: inc/SO-extensions/Widgets/Quidus_Team/Quidus_Team.php:106
+#: inc/SO-extensions/Widgets/Quidus-Facts/Quidus_Facts.php:80
+#: inc/SO-extensions/Widgets/Quidus-Testimonials/Quidus_Testimonials.php:112
+#: inc/SO-extensions/Widgets/Quidus-Services/Quidus_Services.php:111
+#: inc/SO-extensions/Widgets/Quidus_Skills/quidus_skills.php:105
+#: inc/SO-extensions/Widgets/Quidus-Pricing-Table/Quidus_Pricing_Table.php:152
+msgid "Number Of Columns On Small Tablet"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Services/Quidus_Services.php:14
+msgid "Quidus Services"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Services/Quidus_Services.php:67
+msgid "Services"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Services/Quidus_Services.php:19
+msgid "Display various services."
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus_Icon_Simple/quidus_icon.php:23
+msgid "Quidus Simple Icon"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus_Icon_Simple/quidus_icon.php:28
+msgid "One simple element."
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus_Icon_Simple/quidus_icon.php:41
+#: inc/SO-extensions/Widgets/Quidus_Team/Quidus_Team.php:64
+#: inc/SO-extensions/Widgets/Quidus-Services/Quidus_Services.php:76
+#: inc/SO-extensions/Widgets/Quidus-Testimonials/Quidus_Testimonials.php:62
+#: inc/SO-extensions/Widgets/Quidus-Facts/Quidus_Facts.php:46
+#: inc/SO-extensions/Widgets/Quidus-Testimonials/Quidus_Testimonials.php:87
+msgid "Icon"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus_Icon_Simple/quidus_icon.php:46
+#: inc/SO-extensions/Widgets/Quidus-Services/Quidus_Services.php:37
+msgid "Color"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus_Icon_Simple/quidus_icon.php:51
+#: inc/SO-extensions/Widgets/Quidus-Services/Quidus_Services.php:42
+msgid "Font Size"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus_Icon_Simple/quidus_icon.php:66
+#: inc/SO-extensions/Widgets/Quidus-Services/Quidus_Services.php:52
+msgid "Line Height"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Services/Quidus_Services.php:81
+msgid "Service Title"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Services/Quidus_Services.php:86
+msgid "Service Description"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Services/Quidus_Services.php:77
+msgid "Description Color"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Testimonials/Quidus_Testimonials.php:62
+msgid "Testimonials"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Testimonials/Quidus_Testimonials.php:14
+msgid "Quidus Testimonials"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Testimonials/Quidus_Testimonials.php:19
+msgid "Display various testimonials."
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Testimonials/Quidus_Testimonials.php:71
+msgid "Testimonial"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Testimonials/Quidus_Testimonials.php:32
+msgid "Testimonial Color"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Facts/Quidus_Facts.php:37
+msgid "Facts"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Facts/Quidus_Facts.php:88
+msgid "Choose single fact styling."
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Facts/Quidus_Facts.php:51
+msgid "Count"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Facts/Quidus_Facts.php:56
+msgid "Title"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Pricing-Table/Quidus_Pricing_Table.php:42
+#: inc/SO-extensions/Widgets/Quidus-Services/Quidus_Services.php:57
+#: inc/SO-extensions/Widgets/Quidus-Facts/Quidus_Facts.php:27
+msgid "Title Color"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus_Team/Quidus_Team.php:33
+msgid "Hover Background Color"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus_Team/Quidus_Team.php:45
+msgid "Image"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus_Team/Quidus_Team.php:79
+msgid "Destination URL"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Pricing-Table/Quidus_Pricing_Table.php:120
+#: inc/SO-extensions/Widgets/Quidus-CTA/Quidus_CTA.php:62 inc/SO-extensions/Widgets/Quidus-CTA/Quidus_CTA.php:88
+#: inc/SO-extensions/Widgets/Quidus-Pricing-Table/Quidus_Pricing_Table.php:128
+msgid "Open in a new window"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus_Skills/quidus_skills.php:23
+msgid "Quidus Skills"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus_Skills/quidus_skills.php:28
+msgid "Display various skills."
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus_Skills/quidus_skills.php:43
+msgid "Choose skill styling."
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Recent-Posts/Quidus_Recent_Posts.php:79
+msgid "Choose recent posts styling."
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus_Skills/quidus_skills.php:116
+#: inc/SO-extensions/Widgets/Quidus-Recent-Posts/Quidus_Recent_Posts.php:88
+#: inc/SO-extensions/Widgets/Quidus-Facts/Quidus_Facts.php:91
+msgid "Style 1"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus_Skills/quidus_skills.php:117
+#: inc/SO-extensions/Widgets/Quidus-Recent-Posts/Quidus_Recent_Posts.php:89
+#: inc/SO-extensions/Widgets/Quidus-Facts/Quidus_Facts.php:92
+msgid "Style 2"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Recent-Posts/Quidus_Recent_Posts.php:90
+msgid "Style 3"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Recent-Posts/Quidus_Recent_Posts.php:91
+msgid "Style 4"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Recent-Posts/Quidus_Recent_Posts.php:92
+msgid "Style 5"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Recent-Posts/Quidus_Recent_Posts.php:93
+msgid "Style 6"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus_Skills/quidus_skills.php:61
+msgid "Skills"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus_Skills/quidus_skills.php:70
+msgid "Skill Title"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus_Skills/quidus_skills.php:41
+msgid "Skill Title Color"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus_Skills/quidus_skills.php:75
+msgid "Skill Description"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus_Skills/quidus_skills.php:46
+msgid "Skill Description Color"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus_Skills/quidus_skills.php:80
+msgid "Skill Percentage"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus_Skills/quidus_skills.php:51
+msgid "Skill Percentage Color"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus_Skills/quidus_skills.php:56
+msgid "Skill Percentage Count Color"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus_Team/Quidus_Team.php:14
+msgid "Quidus Team"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus_Team/Quidus_Team.php:16
+msgid "Show your team members."
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus_Team/Quidus_Team.php:23
+#: inc/SO-extensions/Widgets/Quidus-Testimonials/Quidus_Testimonials.php:37
+msgid "Name Color"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus_Team/Quidus_Team.php:28
+#: inc/SO-extensions/Widgets/Quidus-Testimonials/Quidus_Testimonials.php:42
+msgid "Position Color"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus_Team/Quidus_Team.php:49
+#: inc/SO-extensions/Widgets/Quidus-Testimonials/Quidus_Testimonials.php:42
+#: inc/SO-extensions/Widgets/Quidus-Testimonials/Quidus_Testimonials.php:81
+msgid "Name"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus_Team/Quidus_Team.php:53
+#: inc/SO-extensions/Widgets/Quidus-Testimonials/Quidus_Testimonials.php:76
+msgid "Position"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus_Team/Quidus_Team.php:58
+msgid "Social Links"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus_Team/Quidus_Team.php:59
+msgid "New Social Link"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Facts/Quidus_Facts.php:8
+msgid "Quidus Facts"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Facts/Quidus_Facts.php:10
+msgid "Display various facts."
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Facts/Quidus_Facts.php:22
+msgid "Count Color"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus_Team/Quidus_Team.php:69
+#: inc/SO-extensions/Widgets/Quidus-Testimonials/Quidus_Testimonials.php:47
+#: inc/SO-extensions/Widgets/Quidus-Facts/Quidus_Facts.php:17
+#: inc/SO-extensions/Widgets/Quidus-Services/Quidus_Services.php:32
+msgid "Icon Color"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Testimonials/Quidus_Testimonials.php:52
+msgid "Icon Background Color"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus-Testimonials/Quidus_Testimonials.php:57
+msgid "Testimonial Background Color"
+msgstr ""
+
+#: inc/SO-extensions/Widgets/Quidus_Team/Quidus_Team.php:74
+#: inc/SO-extensions/Widgets/Quidus-Services/Quidus_Services.php:37
+msgid "Font Size"
+msgstr ""
+
+#: inc/template-tags.php:18
+msgid "Comment navigation"
+msgstr ""
+
+#: inc/template-tags.php:21
+msgid "Older Comments"
+msgstr ""
+
+#: inc/template-tags.php:25
+msgid "Newer Comments"
+msgstr ""
+
+#: inc/template-tags.php:63
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr ""
+
+#: inc/template-tags.php:72
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr ""
+
+#: inc/template-tags.php:78 inc/template-tags.php:86
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:89
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr ""
+
+#: inc/template-tags.php:81
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr ""
+
+#: inc/template-tags.php:101
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr ""
+
+#: inc/template-tags.php:110
+msgid "Leave a reply"
+msgstr ""
+
+#: inc/template-tags.php:110
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:110
+msgid "% Comments"
+msgstr ""
+
+#: search.php:15
+msgid "Search Results for: %s"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Quidus"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://qerrapress.com/quidus-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Quidus is clean and fresh responsive WordPress blog theme."
+"It is retina ready, has unlimited colors, 6 post formats, loads of customization options and content focused layout."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "QerraPress"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:155
+#: ../inc/TGM/quidus-tgm-activate.php:74
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:156
+#: ../inc/TGM/quidus-tgm-activate.php:75
+msgid "Install Plugins"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:157
+#: ../inc/TGM/quidus-tgm-activate.php:76
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:169
+#: ../inc/TGM/quidus-tgm-activate.php:88
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:171
+#: ../inc/TGM/class-tgm-plugin-activation.php:1838
+#: ../inc/TGM/quidus-tgm-activate.php:89
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:172
+#: ../inc/TGM/class-tgm-plugin-activation.php:1536
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/TGM/quidus-tgm-activate.php:77
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../inc/TGM/quidus-tgm-activate.php:90
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1084
+msgid "External Link"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1089
+msgid "Private Repository"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1092
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1096
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1099
+msgid "Highly Recommended"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1099
+msgid "Recommended"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1102
+msgid "Not Installed"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1104
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1274
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1290
+msgid "Plugin"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1291
+msgid "Source"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1292
+msgid "Type"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1293
+msgid "Status"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1311
+msgid "Install"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1312
+msgid "Activate"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1821
+msgid "Install package not available."
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1822
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1823
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1824
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1825
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1826
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1837
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1947
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1948
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1948
+#: ../inc/TGM/class-tgm-plugin-activation.php:1957
+msgid "Show Details"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1948
+#: ../inc/TGM/class-tgm-plugin-activation.php:1957
+msgid "Hide Details"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1949
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1954
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1955
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1958
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:2050
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../panel/quidus-theme-documentaion.php:205
+msgid "Quidus Theme Support"
+msgstr ""
+
+#: ../panel/quidus-theme-documentaion.php:214
+msgid "Thank You For Using Quidus"
+msgstr ""
+
+#: ../panel/quidus-theme-documentaion.php:220
+msgid "Support Forum"
+msgstr ""
+
+#: ../panel/quidus-theme-documentaion.php:224
+msgid "Visit our support forum if you need help with our theme."
+msgstr ""
+
+#: ../panel/quidus-theme-documentaion.php:228
+msgid "Forum"
+msgstr ""

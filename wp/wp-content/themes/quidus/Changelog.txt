@@ -1,0 +1,157 @@
+---2.021---
+Changed woocommerce shop column count to 3
+---2.020---
+Removed masonry.js
+---2.019---
+Fixed few bugs in recent posts widget
+---2.018---
+Added front page customizer options
+---2.017---
+Added Featured Posts widget to SiteOrigin page builder
+---2.016---
+Fixed a bug where menu would have white background in home page
+---2.015---
+Added 4 new widgets to SO page builder
+---2.014---
+Fixed bugs that appear on older php versions
+---2.013---
+Fixed a bug in menu
+---2.012---
+Fixes to site content
+---2.011---
+Fixes to footer widgets
+Fixes to site title
+Added a custom group for quidus widgets in SO page builder
+---2.010---
+Added typography controls
+Added color controls
+Added color alpha control to box shadows and borders
+Added maximum width to pages,posts,archives,home, etc.
+Added maximum width single page/post
+---2.009---
+Fixes to menu
+---2.008---
+Fixes to screenshot
+---2.007---
+Fixes to fonts
+---2.006---
+Changed default font
+---2.004---
+Changed bottom spacing on header text box
+---2.003---
+Changed default screenshot
+---2.002---
+Changed default font for headers
+---2.000---
+Added different sidebar layouts on pages and posts
+Added custom sidebar and content widths
+Added fallback defaults for sidebar and content widths
+Added different sidebar layout selection for each page/post
+Added 4 footer widgets
+Added footer widgets wrapper max width
+Added content sidebar layout for each page/post
+Added recent posts widget
+Added 4 custom widgets for SO page builder
+Added lots of custom fields for SO page builder
+---1.921---
+Removed is_plugin_active function in customizer-sections.php
+---1.920---
+Fixes to menu
+---1.919---
+Fixes to header font
+---1.918---
+Fixes to excerpt length
+---1.917---
+Fix to translation
+---1.916---
+Fix to menu in vertical menu
+---1.915---
+Fixes to default styling of customizer
+---1.914---
+Fixes to menu
+Added reminder to activate "Kirki"
+---1.913---
+Fixes to bottom footer wrapper margin in WooCommerce on mobile
+---1.912---
+Fixes to background color customizer
+---1.911---
+Default settings now match demo
+Fixes to footer widgets
+Fixes to custom fonts
+---1.910---
+Fixes to live customizer
+---1.909---
+Fixes to home header text box
+Added background to home header text box
+Added background opacity slider to home header text box
+---1.908---
+Changed header text from fixed to absolute
+---1.907---
+Site title and site description font fix
+---1.906---
+Fixes to right sidebar
+---1.905---
+Small fixes in WooCommerce layout
+---1.904---
+Fixes to WooCommerce elements
+---1.903---
+Footer widgets margin fix in WooCommerce on mobile screens
+Adjusted line height of some WooCommerce elements
+---1.902---
+More changes to horizontal menu
+---1.901---
+Changes to horizontal menu
+---1.9---
+Added: horizontal menu
+Added: header image to homepage
+Added: header text to homepage
+Fix: lots of fixes in layout
+Removed: option to disable or enable footer widgets/right sidebar in Kirki
+---1.856---
+Change: "Kirki" plugin is now only recommended
+---1.855---
+Fixed: WordPress spelling issues
+Removed: text domain from empty strings
+Change: swapped from esc_attr_e to esc_attr in customizer.php
+---1.854---
+Fix: footer background color fix
+---1.853---
+Change: removed background color from reviewer image avatar and added border
+---1.852---
+Change: font-sizes and padding of social icons
+---1.851---
+Change: minor adjustments
+---1.85---
+Added: WooCommerce integration
+Added: option to set box-shadow opacity of content and sidebars
+Added: option to set background color of content and sidebars
+Added: option to disable background of content and sidebars
+Change: updated readme.txt file
+Added: translations for changes made in customizer.php
+---1.84---
+Change: minor bug fixes
+---1.83---
+Fix: left padding for post pagination
+---1.82---
+Change: minor bug fixes
+---1.81---
+Change: left padding for list post pagination
+Change: removed footer copyright link
+---1.80---
+Added: RSS feed to social networks menu
+---1.79---
+Removed: CSS code for shortcodes
+Removed: some unnecessary !important statements 
+---1.78---
+Change: left and right padding of small tablet and mobile for posts
+Added: alignment now changes when post format icons are disabled and enabled
+---1.77---
+Fix: changed some default customizer values
+Removed: advanced color options (including translations related to them)
+---1.76---
+Removed: sidebar width slider (customizer)
+Fix: Content is now displaying correctly on small desktop when right sidebar is enabled
+Added: Option to disable featured images on single posts
+---1.75---
+Fix: pagination arrows were not displaying in chrome
+Change: pagination arrows are now placed differently
