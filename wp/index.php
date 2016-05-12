@@ -106,6 +106,8 @@
 		</div>
 
 
+		Hej
+
 
 		<div class="sectionMenu" id="section_help_menu" style="display: none;">
 			<a class="MenuNode" id="menuBar_help_general" href="help/general/">Allmänt</a>
